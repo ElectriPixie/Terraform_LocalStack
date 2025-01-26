@@ -6,3 +6,7 @@
 	path = Terraform_LocalStack_PlayGround
 	url = https://github.com/ElectriPixie/Terraform_LocalStack_PlayGround.git
 	branch = development
+[submodule "Terraform_LocalStack_Lambda"]
+	path = Terraform_LocalStack_Lambda
+	url = https://github.com/ElectriPixie/Terraform_LocalStack_Lambda.git
+	branch = development
