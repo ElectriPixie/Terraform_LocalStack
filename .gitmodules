@@ -2,3 +2,7 @@
 	path = Terraform_LocalStack_PlayGround
 	url = https://github.com/ElectriPixie/Terraform_LocalStack_PlayGround.git
 	branch = main
+[submodule "Terraform_LocalStack_Module"]
+	path = Terraform_LocalStack_Module
+	url = https://github.com/ElectriPixie/Terraform_LocalStack_Module.git
+	branch = main
