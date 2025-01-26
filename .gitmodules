@@ -6,3 +6,7 @@
 	path = Terraform_LocalStack_Module
 	url = https://github.com/ElectriPixie/Terraform_LocalStack_Module.git
 	branch = main
+[submodule "Terraform_LocalStack_Network_Module"]
+	path = Terraform_LocalStack_Network_Module
+	url = https://github.com/ElectriPixie/Terraform_LocalStack_Network_Module.git
+	branch = main
