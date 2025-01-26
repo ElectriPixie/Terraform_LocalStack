@@ -1,0 +1,4 @@
+[submodule "Terraform_LocalStack_PlayGround"]
+	path = Terraform_LocalStack_PlayGround
+	url = https://github.com/ElectriPixie/Terraform_LocalStack_PlayGround.git
+	branch = main
