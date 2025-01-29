@@ -1,12 +1,16 @@
-[submodule "Terraform_LocalStack_PlayGround"]
-	path = Terraform_LocalStack_PlayGround
-	url = https://github.com/ElectriPixie/Terraform_LocalStack_PlayGround.git
-	branch = main
 [submodule "Terraform_LocalStack_Module"]
 	path = Terraform_LocalStack_Module
 	url = https://github.com/ElectriPixie/Terraform_LocalStack_Module.git
 	branch = main
-[submodule "Terraform_LocalStack_Network_Module"]
-	path = Terraform_LocalStack_Network_Module
-	url = https://github.com/ElectriPixie/Terraform_LocalStack_Network_Module.git
+[submodule "Terraform_LocalStack_PlayGround"]
+	path = Terraform_LocalStack_PlayGround
+	url = https://github.com/ElectriPixie/Terraform_LocalStack_PlayGround.git
+	branch = main
+[submodule "Terraform_LocalStack_Lambda"]
+	path = Terraform_LocalStack_Lambda
+	url = https://github.com/ElectriPixie/Terraform_LocalStack_Lambda.git
+	branch = main
+[submodule "LocalStack_AWS"]
+	path = LocalStack_AWS
+	url = https://github.com/ElectriPixie/LocalStack_AWS.git
 	branch = main
