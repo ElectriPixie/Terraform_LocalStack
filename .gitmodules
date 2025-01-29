@@ -10,7 +10,7 @@
 	path = Terraform_LocalStack_Lambda
 	url = https://github.com/ElectriPixie/Terraform_LocalStack_Lambda.git
 	branch = development
-[submodule "AWS"]
-	path = AWS
-	url = https://github.com/ElectriPixie/AWS.git
+[submodule "LocalStack_AWS"]
+	path = LocalStack_AWS
+	url = https://github.com/ElectriPixie/LocalStack_AWS.git
 	branch = development
